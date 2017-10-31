@@ -10,6 +10,7 @@ Time spent: **10** hours spent in total
 - Summary:
   - Total Attack(s): 19760
   - Total Malware(s): 1
+- GIF Walkthrough: ![Live Capture](/capture/live_capture.gif)
 
 ## Issues Faced
 
